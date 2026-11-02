@@ -15,8 +15,6 @@
 ### *Chơi Được Trên?*
 Các thiết bị dùng WASD hoặc thiết bị cảm ứng
 
-### *Chính sách Quyền Riêng Tư*
-CHÚNG TÔI KHÔNG BAO GIỜ LẤY DỮ LIỆU CỦA BẠN **(XẠO LÀM 🐕)** (chỉ thu nhập các câu hỏi mà AI không trả lời được để chúng tôi cải thiện AI **Không Kèm dữ liệu Cá nhân** chỉ câu hỏi không trả lời được).
 ### **Góp Ý Kiến?**
 Giử đến email homthudientu.cskhvagqvd.sgdx@gmail.com
 ## **_HẾT_**
